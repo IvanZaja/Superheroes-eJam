@@ -9,8 +9,8 @@ Este proyecto es una aplicación web para gestionar superhéroes hecha para una 
 - Ordenar superhéroes por humildad
 
 ## Capturas de pantalla
-[![`Listando Heroes`](./web/public/list.jpg)]
-![`Error al crear Heroe`](./web/public/errors.jpg)
-![`Front hecho con React`](./web/public/front.jpg)
+[![`Listando Heroes`](https://github.com/IvanZaja/Superheroes-eJam/blob/main/web/public/list.jpg?raw=true)]
+![`Error al crear Heroe`](https://github.com/IvanZaja/Superheroes-eJam/blob/main/web/public/errors.jpg?raw=true)
+![`Front hecho con React`](https://github.com/IvanZaja/Superheroes-eJam/blob/main/web/public/front.jpg?raw=true)
 
 ## Como mejoraría esta app con compañeros de trabajo
